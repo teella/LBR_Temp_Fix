@@ -1,0 +1,16 @@
+{
+	"name": "KrabbitExiles - Remove Building Restrictions",
+	"description": "This is a mod we use with a server to remove building restrictions. There is no options with this or plans to develop it any further.\n\nThis is intended to be used with our family of mods. If you want more options please use one of the other mods that removes building restrictions.",
+	"changeNote": "",
+	"author": "admin",
+	"authorUrl": "http://www.krabbitexiles.com/",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2270625816",
+	"steamVisibility": 0,
+	"folderName": "LBR_Temp_Fix",
+	"revisionNumber": 253050,
+	"snapshotId": 26819
+}
